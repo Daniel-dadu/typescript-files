@@ -21,4 +21,5 @@ console.log("\nMi color es " + miColor + " y tu color es " + tuColor);
 let m; // Aquí es de tipo ANY
 m = 'holaa';
 let termina = m.endsWith('a');
+console.log("Respuesta: ")
 console.log("La variable m termina en a?",termina, "\nY cuantas letras tiene?", m.length);
