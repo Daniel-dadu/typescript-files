@@ -10,7 +10,7 @@ class Point {
         // this.y = y;
         // this.z = z;
     }
-
+	// holaaa
     draw() {
         // Se debe usar el  -- this -- para llamar a los atributos
         console.log('x: ' + this.x + ', y: ' + this.y + ' z: ' + this.z);
